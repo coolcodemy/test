@@ -1,2 +1,2 @@
-<?php echo 'hello';
-phpinfo() ;
+<?php echo 'now testing from dev branch';
+phpinfo();
