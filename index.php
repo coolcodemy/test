@@ -1,2 +1,1 @@
-<?php echo 'hello from master branch';
-phpinfo();
+<?php echo 'hello everyone';
