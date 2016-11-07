@@ -1,2 +1,2 @@
-<?php echo 'this is a test';
+<?php echo 'hello from master branch';
 phpinfo();
