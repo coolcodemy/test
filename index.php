@@ -1,2 +1,2 @@
-<?php echo 'now testing from dev branch';
+<?php echo 'now changing dev branch';
 phpinfo();
