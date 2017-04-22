@@ -1,2 +1,2 @@
-<?php echo 'hello world ad72';
+<?php echo 'hello world ad73';
 phpinfo();
