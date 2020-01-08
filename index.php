@@ -1,2 +1,1 @@
-<?php echo 'hello from india';
-phpinfo();
+<?php echo "hello sree!"
