@@ -1,1 +1,1 @@
-<?php echo "hello sree!";
+<?php phpinfo();
