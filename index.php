@@ -1,3 +1,3 @@
-<?php echo "hello jebat2";
+<?php echo "hello maxis";
 
 phpinfo();
