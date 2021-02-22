@@ -1,3 +1,3 @@
-<?php echo "hello QA2 demo";
+<?php echo "hello QA3 demo";
 
 phpinfo();
