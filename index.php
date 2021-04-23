@@ -1,3 +1,3 @@
-<?php echo "sscsdsd";
+<?php echo "aaaaa";
 
 phpinfo();
