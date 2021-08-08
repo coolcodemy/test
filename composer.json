@@ -1,0 +1,10 @@
+{
+    "name": "coolcodemy/test",
+    "description": "asda",
+    "type": "project",
+    "require": {
+        "symfony/console": "5.3.x-dev"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
