@@ -1,3 +1,3 @@
-<?php echo "banana 3";
+<?php echo "banana 4";
 
 phpinfo();
